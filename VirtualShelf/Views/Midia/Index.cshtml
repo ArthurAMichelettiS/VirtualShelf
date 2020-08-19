@@ -1,0 +1,83 @@
+﻿@model List<MidiaViewModel>
+@{
+    ViewData["Title"] = ViewBag.tipoMidia;
+}
+
+
+<h1 class="text-center">@ViewBag.tipoMidia@("s")</h1>
+
+@if (Model.Count == 0&&!ViewBag.admin)
+{
+    <h2 class="text-center">Nenhuma midia para adicionar</h2>
+}
+
+<div class="cont-tile">
+    @foreach (var midia in Model)
+    {
+        <div class="dropdown">
+            <div></div>
+            <div class="cont" onclick="myFunction(@midia.Id)">
+                <div class="cont-img">
+                    <img id="imgPreview" src="data:image/jpeg;base64,@midia.ImagemEmBase64" class="cont-img"
+                         width="244" height="300">
+                </div>
+                <div class="cont-title acinzentado">
+                    @midia.Nome
+                </div>
+
+            </div>
+            <div id="@midia.Id" class="dropdown-content">
+
+                @if (ViewBag.admin)
+                {
+                    <a href="/midia/Edit?id=@midia.Id">Editar</a>
+                    <a href="javascript:apagarJogo(@midia.Id)">Apagar</a>
+                }
+                else
+                {
+                    <a href="/midia/AdicionaNaVitrine?idF=@midia.Id&ehInteresse=@false">Adicionar a consumida</a>
+                    <a href="/midia/AdicionaNaVitrine?idF=@midia.Id&ehInteresse=@true">Adicionar a interesse</a>
+                }
+                <a href="/midia/Detalhes?idF=@midia.Id">Detalhes</a>
+            </div>
+        </div>
+    }
+    @if (ViewBag.admin)
+    {
+
+        <a href="/midia/@("Cria"+ViewBag.tipoMidia)" class="cont">
+            <div class="cont-img">
+                <div class="fa fa-plus"></div>
+            </div>
+
+        </a>
+    }
+</div>
+
+<script>
+    /* When the user clicks on the button,
+    toggle between hiding and showing the dropdown content */
+    function myFunction(i) {
+        document.getElementById(i).classList.toggle("show");
+    }
+
+    // Close the dropdown menu if the user clicks outside of it
+    window.onclick = function (event) {
+        if (!event.target.matches('.cont')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+
+    function apagarJogo(id) {
+
+        if (confirm('Confirma a exclusão do registro?'))
+            location.href = '/midia/Delete?id=' + id;
+    }
+</script>

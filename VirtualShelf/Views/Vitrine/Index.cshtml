@@ -1,0 +1,56 @@
+﻿@model List<ListagemViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+
+@if (Model.Count == 0)
+{
+    <h2 class="text-center espaco">Essa vitrine está vazia :(</h2>
+}
+else
+{
+    if (ViewBag.UserId != null && ViewBag.UserId == ViewBag.vitrineId)
+    {
+        <h2 class="text-center espaco">Sua Vitrine!</h2>
+    }
+    else
+    {
+        <h2 class="text-center espaco">Vitrine de @Model[0].Usuario!</h2>
+    }
+
+
+    <fieldset>
+        <input type="hidden" name="vitrineId" value="@ViewBag.vitrineId" id="vitrineId" />
+
+
+        <div class="row">
+            <div class="col-md-1">
+            </div>
+            <div class="col-md-4">
+                <label for="Categoria" class="control-label">Categoria</label>
+                <select name="Categoria" id="Categoria" asp-items="ViewBag.Categoria" class="form-control"> </select>
+            </div>
+
+            <div class="col-md-4">
+                <label for="tipo" class="control-label">Tipo</label>
+                <select name="Tipo" id="Tipo" asp-items="ViewBag.Tipo" class="form-control"> </select>
+            </div>
+
+            <div class="col-md-1">
+                <br />
+                <input type="button" class="btn btn-success" value="Filtrar" onclick="atualizaGrid()" />
+            </div>
+        </div>
+    </fieldset>
+    <br />
+
+    <div id="conteudoGrid">
+        @{Html.RenderPartial("pvGrid", Model);}
+    </div>
+
+
+}
+
+

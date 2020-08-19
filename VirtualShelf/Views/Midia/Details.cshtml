@@ -1,0 +1,27 @@
+﻿@model MidiaViewModel
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<br/>
+<div class="flex row">
+    <div>
+        <img id="imgPreview" src="data:image/jpeg;base64,@Model.ImagemEmBase64"
+             width="244" height="300" class="espacoImg">
+    </div>
+    <div>
+        <div>
+            <div class="cont-titulo">@Model.Nome</div>
+            <div class="cont-developer">De @Model.Desenvolvedora</div>
+            <div class="cont-box flex row space-between">
+                <div class="cont-developer">Lançamento: </div>
+                <div class="cont-developer">@Model.Lancamento.ToString("dd MMM yyyy")</div>
+            </div>
+        </div>
+        <div>
+            <div>Descrição</div>
+            <div>@Model.Descricao</div>
+        </div>
+    </div>
+</div>

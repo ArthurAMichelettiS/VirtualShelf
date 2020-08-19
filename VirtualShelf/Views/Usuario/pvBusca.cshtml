@@ -1,0 +1,35 @@
+﻿@model List<UsuarioViewModel>
+
+@{
+    ViewData["Title"] = "pvBusca";
+}
+
+
+<table class="table table-responsive">
+    <tr>
+        <th>Ver</th>
+        <th>Nome</th>
+        <th>Login</th>
+        <th>Pedido</th>
+    </tr>
+
+    @foreach (var mig in Model)
+    {
+        <tr>
+            <td>
+
+                <a href="/vitrine/VisitarVitrine?id=@mig.Id">
+                    Visitar vitrine
+                </a>
+            </td>
+            <td>@mig.Nome</td>
+            <td>@mig.Login</td>
+            <td>
+                <a href="javascript:pedirFriend(@mig.Id)">
+                    Enviar pedido de amizade
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+

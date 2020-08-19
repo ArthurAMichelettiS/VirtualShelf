@@ -1,0 +1,217 @@
+C:\src\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.deps.json
+C:\src\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.json
+C:\src\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.dev.json
+C:\src\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\src\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\src\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.dll
+C:\src\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CoreCompileInputs.cache
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cache
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfoInputs.cache
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfo.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.input.cache
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.output.cache
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorCoreGenerate.cache
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Index.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cache
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CopyComplete
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Form.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csprojAssemblyReference.cache
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Filme\Form.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Filme\Index.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Form.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Index.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Details.g.cshtml.cs
+C:\src\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.deps.json
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.json
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.dev.json
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.dll
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csprojAssemblyReference.cache
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CoreCompileInputs.cache
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cache
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfoInputs.cache
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfo.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.input.cache
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.output.cache
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorCoreGenerate.cache
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Filme\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Filme\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Details.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cache
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CopyComplete
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf login\VirtualShelf\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Vitrine\Index.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.deps.json
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.json
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.dev.json
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.dll
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csprojAssemblyReference.cache
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CoreCompileInputs.cache
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cache
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfoInputs.cache
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfo.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.input.cache
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.output.cache
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorCoreGenerate.cache
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Filme\Form.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Filme\Index.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Details.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Form.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Index.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Form.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Index.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Form.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Vitrine\Index.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cache
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cs
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\Users\kaian\Desktop\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CopyComplete
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.deps.json
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.json
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.dev.json
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.dll
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csprojAssemblyReference.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CoreCompileInputs.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfoInputs.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfo.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.input.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.output.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorCoreGenerate.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Filme\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Filme\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Details.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Jogo\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Vitrine\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CopyComplete
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\buscar.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\friends.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Vitrine\pvGrid.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\pvBusca.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.deps.json
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.json
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.runtimeconfig.dev.json
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.dll
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\bin\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csprojAssemblyReference.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CoreCompileInputs.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorAssemblyInfo.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfoInputs.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.AssemblyInfo.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.input.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.TagHelpers.output.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorCoreGenerate.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\buscar.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\friends.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\pvBusca.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Vitrine\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Vitrine\pvGrid.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cache
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.RazorTargetAssemblyInfo.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.Views.pdb
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.dll
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.pdb
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\VirtualShelf.csproj.CopyComplete
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Midia\Details.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Midia\Form.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Midia\Index.g.cshtml.cs
+C:\Users\lance\Downloads\VirtualShelf loginKAIAN\VirtualShelf login remaster\VirtualShelf\obj\Debug\netcoreapp2.1\Razor\Views\Midia\Sucesso.g.cshtml.cs

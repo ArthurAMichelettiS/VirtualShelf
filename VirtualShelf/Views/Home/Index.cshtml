@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="cont-about">
+    <h1>Bem Vindo(a)!</h1>
+    <div class="cont-about">Aqui é uma estante virtual de jogos, filmes e livros, onde você pode ver estantes de outros usuarios e fazer amizades</div>
+    @if (ViewBag.img3 != null)
+    {
+        <div class="row">
+            <div class="col-md-4">
+                <div class="cont-img center">
+                    <img id="imgPreview" src="data:image/jpeg;base64, @ViewBag.Img1.ImagemEmBase64" class="img-responsive"
+                         width="244" height="300">
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="cont-img center">
+                    <img id="imgPreview" src="data:image/jpeg;base64, @ViewBag.Img2.ImagemEmBase64" class="img-responsive"
+                         width="244" height="300">
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="cont-img center">
+                    <img id="imgPreview" src="data:image/jpeg;base64, @ViewBag.Img3.ImagemEmBase64" class="img-responsive"
+                         width="244" height="300">
+                </div>
+            </div>
+        </div>
+
+    }
+    else
+    {
+        <img src="~/images/unknown.png" />
+    }
+</div>
+

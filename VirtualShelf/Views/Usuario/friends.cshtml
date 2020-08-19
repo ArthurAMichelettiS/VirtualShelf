@@ -1,0 +1,107 @@
+﻿
+
+@{
+    ViewData["Title"] = "friends";
+    List<VirtualShelf.Models.UsuarioViewModel> migs = ViewBag.Amigos;
+    List<VirtualShelf.Models.UsuarioViewModel> ReqMigs = ViewBag.Pedidos;
+
+}
+<br />
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-3">
+        <a href="buscar" class="cont-button espaco">Faça Amigos!</a>
+    </div>
+    <div class="col-md-2">
+        <a href="/usuario/Edit?id=@ViewBag.UserId" class="cont-button espaco">Editar cadastro</a>
+    </div>
+    <div class="col-md-3">
+        <a href="javascript:apagarConta(@ViewBag.UserId)" class="cont-button espaco">Excluir minha conta</a>
+    </div>
+
+</div>
+
+
+<h2 class="espaco">Suas Amizades:</h2>
+
+@if (migs.Count != 0)
+{
+    <table class="table table-responsive">
+        <tr>
+            <th>Ver</th>
+            <th>Nome</th>
+            <th>Login</th>
+            <th>Telefone</th>
+            <th>Email</th>
+            <th>Remove</th>
+        </tr>
+
+        @foreach (var mig in migs)
+        {
+            <tr>
+                <td>
+                    <a href="/vitrine/VisitarVitrine?id=@mig.Id">
+                        Visitar vitrine
+                    </a>
+                </td>
+                <td>@mig.Nome</td>
+                <td>@mig.Login</td>
+                <td>@mig.Telefone</td>
+                <td>@mig.Email</td>
+                <td>
+                    <a href="javascript:cancelarFriend(@mig.Id)">
+                        Remover amizade
+                    </a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <h3 class="text-center">Você ainda não tem amizades</h3>
+}
+
+
+
+<h2 class="espaco">Solicitações de amizade:</h2>
+
+@if (ReqMigs.Count != 0)
+{
+    <table class="table table-responsive">
+        <tr>
+            <th>Ver</th>
+            <th>Nome</th>
+            <th>Login</th>
+            <th>Aceitar</th>
+            <th>Rejeitar</th>
+        </tr>
+
+        @foreach (var mig in ReqMigs)
+        {
+            <tr>
+                <td>
+                    <a href="/vitrine/VisitarVitrine?id=@mig.Id">
+                        Visitar vitrine
+                    </a>
+                </td>
+                <td>@mig.Nome</td>
+                <td>@mig.Login</td>
+                <td>
+                    <a href="javascript:aceitarFriend(@mig.Id)">
+                        Aceitar amizade
+                    </a>
+                </td>
+                <td>
+                    <a href="javascript:cancelarFriend(@mig.Id)">
+                        Remover amizade
+                    </a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <h3 class="text-center">Nenhuma solicitação de amizade</h3>
+}

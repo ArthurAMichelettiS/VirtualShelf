@@ -1,0 +1,19 @@
+﻿.column{
+    flex-direction:column;
+}
+
+.flex{
+    display:flex;
+}
+
+.wd-100{
+    width:100px;
+}
+
+.blue{
+    background-color: red;
+}
+
+.hg-100p{
+    height:100%;
+}

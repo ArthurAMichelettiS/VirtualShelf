@@ -1,0 +1,30 @@
+﻿@model UsuarioViewModel
+@{
+ ViewData["Title"] = "Login";
+ Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Login</h2>
+<div class="row">
+    <div class="col-lg-3">
+        <form action="~/login/Fazlogin" method="post">
+            <label for="usuario" class="control-label">Usuário</label>
+            <input type="text" name="usuario" class="form-control" required placeholder='Usuário...' />
+            <label for="senha" class="control-label">Senha</label>
+            <input type="password" name="senha" class="form-control" required placeholder='Senha...' />
+            <br />
+            <div class="center">
+                <label class="cont-button" for="login">
+                   Login
+                </label>
+
+                <input type="submit" name="login" id="login" value="Login" />
+            </div>
+            <br />
+            <span class="text-danger"> @ViewBag.Erro</span>
+            <br/>
+        <a href="/usuario/Create">Faça seu cadastro</a>
+        </form>
+    </div>
+</div>
+
+

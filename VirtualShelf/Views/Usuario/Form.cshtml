@@ -1,0 +1,66 @@
+﻿@model UsuarioViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<h1 class="text-center">Realizar @(ViewBag.Operacao == "I" ? "Cadastro" : "Alteração")</h1>
+<form asp-action="Salvar" enctype="multipart/form-data">
+    <input type="hidden" Name="Id" value="@Model.Id" class="form-control disabled" />
+    <input type="hidden" name="Operacao" value="@ViewBag.Operacao" />
+    <div class="conteudo">
+        <div class="meu-box">
+            <label class="label-nome" for="title">Nome</label>
+            <input type="text" placeholder="Nome" Name="Nome" value="@Model.Nome" class="input-nome" id="name" />
+            <span asp-validation-for="Nome" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-nome" for="title">Login</label>
+            @if (ViewBag.Operacao == "I")
+            {
+                <input type="text" placeholder="Login" Name="Login" value="@Model.Login" class="input-nome" id="login" />
+            }
+            else
+            {
+                <input type="text" placeholder="Login" Name="Login" value="@Model.Login" class="input-nome" id="login" readonly/>
+            }
+            <span asp-validation-for="Login" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-nome" for="title">Senha</label>
+            <input type="password" placeholder="Senha" Name="Senha" value="@Model.Senha" class="input-nome" id="senha" />
+            <span asp-validation-for="Senha" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-nome" for="developer">E-mail</label>
+            <input type="email" placeholder="E-mail" Name="Email" value="@Model.Email" class="input-nome" id="email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-nome" for="developer">Telefone</label>
+            <input type="text" placeholder="Telefone" Name="Telefone" value="@(string.IsNullOrEmpty(Model.Telefone) ? Model.Telefone : Model.Telefone.Insert(2," ").Insert(7,"-"))" class="input-nome" id="telefone" />
+            <span asp-validation-for="Telefone" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-nome" for="developer">Perfil Privado</label>
+            <input type="checkbox" placeholder="Privado" Name="Perfil Privado" value="@Model.EhPrivado" class="input-nome" id="telefone" />
+            <span asp-validation-for="EhPrivado" class="text-danger"></span>
+            Para que apenas amigos possam visualizar sua vitrine
+        </div>
+
+
+    </div>
+
+    <div class="center">
+        <label class="cont-button" for="save">
+            <i class="fa fa-floppy-o" aria-hidden="true"></i>
+            Salvar Dados
+        </label>
+
+        <input type="submit" name="save" id="save" value="Salvar dados" />
+    </div>
+    <span class="text-danger">@ViewBag.Erro</span>
+</form>
+

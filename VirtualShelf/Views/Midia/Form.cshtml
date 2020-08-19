@@ -1,0 +1,78 @@
+﻿@model MidiaViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h1 class="text-center">@(ViewBag.Operacao == "I"? "Cadastrar" :"Alterar") @ViewBag.tipoMidia</h1>
+
+
+<form asp-action="Salvar" enctype="multipart/form-data">
+    <input type="number" Name="Id" value="@Model.Id" class="form-control disabled" />
+    <input type="hidden" name="Operacao" value="@ViewBag.Operacao" />
+    <input type="hidden" name="tipoMidiaId" value="@ViewBag.tipoMidiaId" id="tipoMidiaId" />
+    
+    <div class="conteudo">
+        <div class="meu-box">
+            <label class="label-nome" for="title">Título</label>
+            <input type="text" placeholder="Título" Name="Nome" value="@Model.Nome" class="input-nome" id="name" />
+            <span asp-validation-for="Nome" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-nome" for="developer">Produtora</label>
+            <input type="text" placeholder="Produtora" Name="Desenvolvedora" value="@Model.Desenvolvedora" class="input-nome" id="developer" />
+            <span asp-validation-for="Desenvolvedora" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-nome" for="description">Descrição</label>
+            <textarea rows="4" cols="50" type="text" placeholder="Descrição" Name="Descricao" value="@Model.Descricao" class="input-nome" id="description">@Model.Descricao</textarea>
+            <span asp-validation-for="Descricao" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-nome" for="genre">Gênero</label>
+            <select asp-for="GeneroId" asp-items="ViewBag.Generos" class="form-control"> </select>
+            <span asp-validation-for="GeneroId" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-nome" for="description">Lançamento</label>
+            <input type="date" Name="Lancamento" value="@Model.Lancamento.ToString("yyyy-MM-dd")" class="form-control" />
+            <span asp-validation-for="Lancamento" class="text-danger"></span>
+        </div>
+        <div class="meu-box">
+            <label class="label-img">Imagem</label>
+            <div class="meu-box-img">
+                <label class="cont-button" for="Imagem">
+                    <i class="fa fa-cloud-upload" aria-hidden="true"></i>
+                    Selecionar Imagem
+                </label>
+                <input type="file" name="Imagem" id="Imagem" onchange="exibirImagem()" class="btn btn-secondary">
+                <img id="imgPreview" src="data:image/jpeg;base64,@Model.ImagemEmBase64" class="img-responsive" width="200">
+
+            </div>
+            <span asp-validation-for="Imagem" class="text-danger"></span>
+        </div>
+
+
+    </div>
+
+    <div class="center">
+        <label class="cont-button" for="save">
+            <i class="fa fa-floppy-o" aria-hidden="true"></i>
+            Salvar Dados
+        </label>
+
+        <input type="submit" name="save" id="save" value="Salvar dados" />
+    </div>
+    <span class="text-danger">@ViewBag.Erro</span>
+</form>
+
+<script>
+    function exibirImagem() {
+        var oFReader = new FileReader();
+        oFReader.readAsDataURL(document.getElementById("Imagem").files[0]);
+        oFReader.onload = function (oFREvent) {
+            document.getElementById("imgPreview").src = oFREvent.target.result;
+        };
+    }
+</script>

@@ -1,0 +1,31 @@
+﻿@model List<ListagemViewModel>
+
+
+    <table class="table table-responsive">
+        <tr>
+            <th>Tipo</th>
+            <th>Titulo</th>
+            <th>Categoria</th>
+            <th>Informações</th>
+            <th>Status</th>
+            @if (ViewBag.UserId != null && ViewBag.UserId == ViewBag.vitrineId)
+            {
+                <th>Remover</th>
+            }
+        </tr>
+
+        @foreach (var listagem in Model)
+        {
+        <tr>
+            <td>@listagem.Tipo</td>
+            <td>@listagem.Titulo</td>
+            <td>@listagem.Categoria</td>
+            <td><a href="/midia/Detalhes?idF=@listagem.MidiaId">Detalhes</a></td>
+            <td>@listagem.Status</td>
+            @if (ViewBag.UserId != null && ViewBag.UserId == ViewBag.vitrineId)
+            {
+                <td><a href="javascript:removerDaVitrine(@listagem.MidiaId)">Apagar</a></td>
+            }
+        </tr>
+        }
+    </table>

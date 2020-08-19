@@ -1,0 +1,41 @@
+﻿@model List<UsuarioViewModel>
+@{
+    ViewData["Title"] = "buscar";
+}
+
+<h2 class="text-center">Faça novos Amigos!</h2>
+<br />
+<fieldset>
+    <legend>Buscar amigo pelo login, usuario ou midias que eles possuem</legend>
+    <br />
+    <div class="row">
+        <div class="col-md-1">
+        </div>
+        <div class="col-md-4">
+            <label for="login" class="control-label">Nome do usuario/login</label>
+            <input type="text" name="login" id="login" class="form-control" />
+        </div>
+
+        <div class="col-md-1">
+            <br />
+            <input type="button" class="btn btn-success" value="Buscar" onclick="pesquisaFriend()" />
+        </div>
+        <div class="col-md-1">
+        </div>
+
+        <div class="col-md-4">
+            <label for="login" class="control-label">Nome da midia/produtora</label>
+            <input type="text" name="midia" id="midia" class="form-control" />
+        </div>
+
+        <div class="col-md-1">
+            <br />
+            <input type="button" class="btn btn-success" value="Buscar" onclick="pesquisaFriendMid()" />
+        </div>
+    </div>
+</fieldset>
+<br />
+
+<div id="conteudoGrid">
+    @{Html.RenderPartial("pvBusca", Model);}
+</div>
